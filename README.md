@@ -26,6 +26,7 @@
 + [wysiwug](https://github.com/jhollingworth/bootstrap-wysihtml5/) | [demo](http://jhollingworth.github.io/bootstrap-wysihtml5/)
 
 ### notify
++ [flippant](https://github.com/mintchaos/flippant.js) | [demo](http://labs.mintchaos.com/flippant.js/)
 + [javascript notify](https://github.com/sciactive/pnotify) | [demo](http://sciactive.com/pnotify/)
 + [notify, alerts and messages](https://github.com/HubSpot/messenger) | [demo](http://github.hubspot.com/messenger/docs/welcome/)
 
@@ -50,3 +51,6 @@
 
 ### guide
 + [guide around your site](https://github.com/clu3/bootstro.js) | [demo](https://clu3.github.io/bootstro.js/)
+
+### firefox plugin
++ [firefox bs3 helper](https://addons.mozilla.org/en-US/firefox/addon/twitter-bootstrap-3-helper/)
