@@ -22,7 +22,7 @@
 + [typeahead autocomplete](https://github.com/twitter/typeahead.js/) | [demo](http://twitter.github.io/typeahead.js/)
 + [select](https://github.com/silviomoreto/bootstrap-select) | [demo](http://silviomoreto.github.io/bootstrap-select/)
 + [select multi](https://github.com/davidstutz/bootstrap-multiselect) | [demo](http://davidstutz.github.io/bootstrap-multiselect/)
-+ [switch](https://github.com/nostalgiaz/bootstrap-switch) | [demo](http://www.larentis.eu/switch/)
++ [bs switch](https://github.com/nostalgiaz/bootstrap-switch) | [demo](http://www.bootstrap-switch.org/examples.html)
 + [wysiwug](https://github.com/jhollingworth/bootstrap-wysihtml5/) | [demo](http://jhollingworth.github.io/bootstrap-wysihtml5/)
 
 ### notify
