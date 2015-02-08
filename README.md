@@ -16,6 +16,7 @@
 + [editable field](https://github.com/vitalets/x-editable) | [demo](http://vitalets.github.io/x-editable)
 + [input max length](https://github.com/mimo84/bootstrap-maxlength) | [demo](http://mimo84.github.com/bootstrap-maxlength/)
 + [file upload](https://github.com/blueimp/jQuery-File-Upload) | [demo](http://blueimp.github.io/jQuery-File-Upload/)
++ [file upload bs](https://github.com/markusslima/bootstrap-filestyle) | [demo](http://markusslima.github.io/bootstrap-filestyle/)
 + [form wizard](https://github.com/amoffat/bootstrap-application-wizard) | [demo](http://www.panopta.com/2013/02/06/bootstrap-application-wizard/)
 + [markdown](https://github.com/toopay/bootstrap-markdown) | [demo](http://toopay.github.io/bootstrap-markdown/)
 + [tags](https://github.com/maxwells/bootstrap-tags) | [demo](http://maxwells.github.io/bootstrap-tags.html)
