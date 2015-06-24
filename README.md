@@ -55,3 +55,7 @@
 
 ### firefox plugin
 + [firefox bs3 helper](https://addons.mozilla.org/en-US/firefox/addon/twitter-bootstrap-3-helper/)
+
+
+## IDE
+* [pingendo](http://pingendo.com/) - The simplest app for Bootstrap prototyping - Mac|Win|Linux
