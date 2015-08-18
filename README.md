@@ -52,6 +52,7 @@
 
 ### guide
 + [guide around your site](https://github.com/clu3/bootstro.js) | [demo](https://clu3.github.io/bootstro.js/)
++ [grid system advanced](http://www.helloerik.com/bootstrap-3-grid-introduction)
 
 ### firefox plugin
 + [firefox bs3 helper](https://addons.mozilla.org/en-US/firefox/addon/twitter-bootstrap-3-helper/)
